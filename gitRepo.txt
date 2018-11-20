@@ -1,0 +1,1 @@
+https://gitlab.alm.gsnetcloud.corp/apification_us/test-sandbox-locations-api.git
